@@ -1,0 +1,123 @@
+
+@font-face {
+    font-family: 'armwrestlerbold';
+    src: url('../fontsArmWrestler-webfont.eot');
+    src: url('../fontsArmWrestler-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fontsArmWrestler-webfont.woff') format('woff'),
+         url('../fontsArmWrestler-webfont.ttf') format('truetype'),
+         url('../fontsArmWrestler-webfont.svg#armwrestlerbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+p {
+	font-size: 25px;
+	text-align: justify;
+	margin-top: 5%
+
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	border-radius: 50%;
+	margin-right: auto;
+}
+
+
+
+body{
+	background-image: url('../images/background.jpg');
+	background-color: white;
+	font-family: 'armwrestlerbold';
+	
+}
+
+
+h1 {
+	text-align: center;
+	margin-top: 2.5%
+}
+
+h2{
+	text-align: center
+}
+
+h3{
+	font-size: 40px;
+	color:black;
+}
+
+
+nav {
+	 background-color: #333;
+
+}
+
+nav a:hover {
+    background-color: #111;
+}
+
+ a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+ }
+
+ ul {
+ 	text-align:center;
+ }
+
+ li{
+ 	text-align: justify; 
+ 	font-size: 30px;
+ }
+/*h1 {
+  font-size: 0.5em;
+  color: rgba(189, 88, 9, 0.75);
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font_size: 25px;
+}
+
+h2 {
+  color: Green;
+  }
+  
+ h3,p {
+   color:Blue;
+   background-color:tomato
+ }
+ 
+ *{
+   font-family: Arial;
+ }
+ 
+ body{
+    background-color: cyan;
+ }
+ 
+ p {
+   text-allign: justify
+ }
+ 
+ img {
+   margin-left: 25%
+ }
+ a{
+   border: 3px groove;
+   border-color: Brown;
+   background: yellow;
+   border-radius:100px
+ }
+ a:hover { 
+    background: -webkit-linear-gradient(red, black);
+}*/
